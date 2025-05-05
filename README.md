@@ -6,11 +6,11 @@ A simple and intuitive web application that allows users to convert currencies b
 
 ## 📁 Project Structure
 
-├── index.html       # Main HTML file
-├── style.css        # Styling using CSS
-├── page.js          # Main JavaScript logic for exchange rate
-├── flag.js          # Country code to flag mapping
-├── back.jpeg        # Background image (as referenced in CSS)
+├── index.html # Main HTML file
+├── style.css # Styling using CSS
+├── page.js # Main JavaScript logic for exchange rate
+├── flag.js # Country code to flag mapping
+├── back.jpeg # Background image (as referenced in CSS)
 
 
 ---
